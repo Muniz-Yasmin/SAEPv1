@@ -34,6 +34,10 @@ Criado uma OnePage visando as Regras de Negócios elaborada pela FIEMG.
 
 - [Yasmin Muniz](https://github.com/Muniz-Yasmin)
 
+## Link do site
+
+- [Link do site do projeto](https://muniz-yasmin.github.io/projeto-saep/)
+
 ## Pessoas Contribuidoras
 
 Qualquer pessoa da Comunidade DEV, fique a vontade para ajudar e implementar melhorias contínua para o projeto. 
