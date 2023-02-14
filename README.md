@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# SAEP
+>>>>>>> 6cf114dd01d9df22f092651e7df230aa1867c85b
 # 💻 Projeto SAEP
 
 Desenvolvimento da prova SAEP realizado no segundo semestre de 2022 pela turma do Curso Técnico em Informática para Internet.
@@ -31,7 +35,15 @@ Criado uma OnePage visando as Regras de Negócios elaborada pela FIEMG.
 
 ## 🧑‍💻 Pessoas Desenvolvolvedoras do Projeto
 
+<<<<<<< HEAD
 - [Erick Braun](https://www.github.com/ErickBGoecking)
+=======
+- [Yasmin Muniz](https://github.com/Muniz-Yasmin)
+
+## Link do site
+
+- [Link do site do projeto](https://muniz-yasmin.github.io/projeto-saep/)
+>>>>>>> 6cf114dd01d9df22f092651e7df230aa1867c85b
 
 ## Pessoas Contribuidoras
 
@@ -50,6 +62,10 @@ Aplicações.
 - Javascript
 - JAVA
 - C#
+<<<<<<< HEAD
 - SQL.
 Footer
 © 2023 GitHub, Inc.
+=======
+- SQL.
+>>>>>>> 6cf114dd01d9df22f092651e7df230aa1867c85b
